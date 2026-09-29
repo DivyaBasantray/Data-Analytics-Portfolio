@@ -9,14 +9,14 @@ This repository showcases 10 end-to-end data analytics projects across multiple 
 ## 💳 Financial Analytics (BFSI)
 
 ### Lending Club Credit Risk & Loan Default Analysis
-**Tools:** Python | Power BI
+**Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed over 2.2 million loan records to identify borrower, loan, and credit characteristics associated with loan defaults.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis)
 
 ### Credit Card Fraud Detection
-**Tools:** Python | Power BI
+**Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed transaction patterns to identify characteristics associated with fraudulent credit card transactions.
 
@@ -27,7 +27,7 @@ Analyzed transaction patterns to identify characteristics associated with fraudu
 ## 🏢 HR Analytics
 
 ### IBM HR Attrition Analysis
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
 
@@ -38,7 +38,7 @@ Analyzed employee attrition patterns to identify the key factors associated with
 ## 🚗 Automotive & EV Analytics
 
 ### BMW Sales Analysis
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed BMW sales data to identify revenue patterns, sales performance, and product-level trends.
 
@@ -56,14 +56,14 @@ Analyzed EV specifications and performance metrics to compare electric vehicle c
 ## 🛒 E-commerce & Retail Analytics
 
 ### Amazon Sales Analysis
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed sales performance and customer/order trends to generate business insights.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard)
 
 ### Swiggy Menu Insights
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed restaurant and menu data to identify pricing, ratings, and food-market trends.
 
@@ -74,7 +74,7 @@ Analyzed restaurant and menu data to identify pricing, ratings, and food-market 
 ## 🚕 Transportation Analytics
 
 ### Uber Ride Analysis
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed ride bookings, cancellations, revenue, payment methods, and customer/driver ratings.
 
@@ -85,7 +85,7 @@ Analyzed ride bookings, cancellations, revenue, payment methods, and customer/dr
 ## 👥 Customer Analytics
 
 ### Telco Customer Churn
-**Tools:** SQL | Python | Power BI
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed customer characteristics and service patterns associated with customer churn.
 
@@ -96,7 +96,7 @@ Analyzed customer characteristics and service patterns associated with customer 
 ## 🏨 Hospitality Analytics
 
 ### Airbnb Gems Analysis
-**Tools:** Python (Pandas, Matplotlib, Seaborn)
+**Tools:** Python, Pandas, Matplotlib, Seaborn
 
 Analyzed Airbnb listings to identify pricing, location, and property-level patterns.
 
@@ -108,5 +108,5 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 
 **SQL:** MySQL, Advanced SQL, Window Functions  
 **Python:** Pandas, NumPy, Matplotlib, Seaborn 
-**BI & Visualization:** Power BI, DAX, Excel  
+**BI & Visualization:** Power BI, DAX, Advanced Excel  
 **Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
