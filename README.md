@@ -6,7 +6,7 @@ This repository showcases 10 end-to-end data analytics projects across multiple 
 
 ---
 
-## 💳 Financial Analytics
+## 💳 Financial Analytics (BFSI)
 
 ### Lending Club Credit Risk & Loan Default Analysis
 **Tools:** Python | Power BI
