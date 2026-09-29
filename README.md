@@ -1,2 +1,112 @@
-# Data-Analytics-Portfolio
-A curated collection of my data analytics projects across multiple real-world business domains using SQL, Python, Power BI and Excel.
+# 📊 Data Analytics Portfolio
+
+Welcome to my data analytics portfolio.
+
+This repository showcases 10 end-to-end data analytics projects across multiple real-world business domains. The projects demonstrate practical experience in SQL, Python, Power BI, Excel, data cleaning, exploratory data analysis, data visualization, and business intelligence.
+
+---
+
+## 💳 Financial Analytics
+
+### Lending Club Credit Risk & Loan Default Analysis
+**Tools:** Python | Power BI
+
+Analyzed over 2.2 million loan records to identify borrower, loan, and credit characteristics associated with loan defaults.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis)
+
+### Credit Card Fraud Detection
+**Tools:** Python | Power BI
+
+Analyzed transaction patterns to identify characteristics associated with fraudulent credit card transactions.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis)
+
+--- 
+
+## 🏢 HR Analytics
+
+### IBM HR Attrition Analysis
+**Tools:** SQL | Python | Power BI
+
+Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
+
+🔗 [View Project Repository]((https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard))
+
+---
+
+## 🚗 Automotive & EV Analytics
+
+### BMW Sales Analysis
+**Tools:** SQL | Python | Power BI
+
+Analyzed BMW sales data to identify revenue patterns, sales performance, and product-level trends.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-)
+
+### Electric Vehicle Specification Analysis
+**Tools:** Power BI
+
+Analyzed EV specifications and performance metrics to compare electric vehicle characteristics.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-)
+
+---
+
+## 🛒 E-commerce & Retail Analytics
+
+### Amazon Sales Analysis
+**Tools:** SQL | Python | Power BI
+
+Analyzed sales performance and customer/order trends to generate business insights.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard)
+
+### Swiggy Menu Insights
+**Tools:** SQL | Python | Power BI
+
+Analyzed restaurant and menu data to identify pricing, ratings, and food-market trends.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard)
+
+---
+
+## 🚕 Transportation Analytics
+
+### Uber Ride Analysis
+**Tools:** SQL | Python | Power BI
+
+Analyzed ride bookings, cancellations, revenue, payment methods, and customer/driver ratings.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis)
+
+---
+
+## 👥 Customer Analytics
+
+### Telco Customer Churn
+**Tools:** SQL | Python | Power BI
+
+Analyzed customer characteristics and service patterns associated with customer churn.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis)
+
+---
+
+## 🏨 Hospitality Analytics
+
+### Airbnb Gems Analysis
+**Tools:** Python (Pandas, Matplotlib, Seaborn)
+
+Analyzed Airbnb listings to identify pricing, location, and property-level patterns.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project)
+
+---
+
+## 🛠️ Technical Skills
+
+**SQL:** MySQL, Advanced SQL, Window Functions  
+**Python:** Pandas, NumPy, Matplotlib, Seaborn 
+**BI & Visualization:** Power BI, DAX, Excel  
+**Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
