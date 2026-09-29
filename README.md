@@ -31,7 +31,7 @@ Analyzed transaction patterns to identify characteristics associated with fraudu
 
 Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
 
-🔗 [View Project Repository]((https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard))
+🔗 [View Project Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard)
 
 ---
 
