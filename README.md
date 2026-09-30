@@ -70,6 +70,11 @@ Analyzed restaurant and menu data to identify pricing, ratings, and food-market 
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard)
 
+### Market Segmentation and RFM Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis)
+
 ---
 
 ## 🚕 Transportation Analytics
