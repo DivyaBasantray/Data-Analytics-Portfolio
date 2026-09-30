@@ -9,14 +9,14 @@ Welcome to my data analytics portfolio.
 
 ## 💳 Financial Analytics (BFSI)
 
-### Lending Club Credit Risk & Loan Default Analysis
+### 1. Lending Club Credit Risk & Loan Default Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed over 2.2 million loan records to identify borrower, loan, and credit characteristics associated with loan defaults.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis)
 
-### Credit Card Fraud Detection
+### 2. Credit Card Fraud Detection
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed transaction patterns to identify characteristics associated with fraudulent credit card transactions.
@@ -27,7 +27,7 @@ Analyzed transaction patterns to identify characteristics associated with fraudu
 
 ## 🏢 HR Analytics
 
-### IBM HR Attrition Analysis
+### 1. IBM HR Attrition Analysis
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
@@ -38,14 +38,14 @@ Analyzed employee attrition patterns to identify the key factors associated with
 
 ## 🚗 Automotive & EV Analytics
 
-### BMW Sales Analysis
+### 1. BMW Sales Analysis
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed BMW sales data to identify revenue patterns, sales performance, and product-level trends.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-)
 
-### Electric Vehicle Specification Analysis
+### 2. Electric Vehicle Specification Analysis
 **Tools:** Power BI
 
 Analyzed EV specifications and performance metrics to compare electric vehicle characteristics.
@@ -56,21 +56,21 @@ Analyzed EV specifications and performance metrics to compare electric vehicle c
 
 ## 🛒 E-commerce & Retail Analytics
 
-### Amazon Sales Analysis
+### 1. Amazon Sales Analysis
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed sales performance and customer/order trends to generate business insights.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard)
 
-### Swiggy Menu Insights
+### 2. Swiggy Menu Insights
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed restaurant and menu data to identify pricing, ratings, and food-market trends.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard)
 
-### Market Segmentation and RFM Analysis
+### 3. Market Segmentation and RFM Analysis (E-commerce + Marketing)
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis)
@@ -79,7 +79,7 @@ Analyzed restaurant and menu data to identify pricing, ratings, and food-market 
 
 ## 🚕 Transportation Analytics
 
-### Uber Ride Analysis
+### 1. Uber Ride Analysis
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed ride bookings, cancellations, revenue, payment methods, and customer/driver ratings.
@@ -90,7 +90,7 @@ Analyzed ride bookings, cancellations, revenue, payment methods, and customer/dr
 
 ## 👥 Customer Analytics
 
-### Telco Customer Churn
+### 1. Telco Customer Churn
 **Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed customer characteristics and service patterns associated with customer churn.
@@ -101,7 +101,7 @@ Analyzed customer characteristics and service patterns associated with customer 
 
 ## 🏨 Hospitality Analytics
 
-### Airbnb Gems Analysis
+### 1. Airbnb Gems Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
 Analyzed Airbnb listings to identify pricing, location, and property-level patterns.
