@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio.
 
 ---
 
-## 💳 Banking Financial Services and Insurance (BFSI)
+## 💳 Banking Financial Services and Insurance (BFSI) Analytics
 
 ### 1. Lending Club Credit Risk & Loan Default Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
