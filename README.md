@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics Projects
 
 Welcome to my data analytics portfolio.
 
