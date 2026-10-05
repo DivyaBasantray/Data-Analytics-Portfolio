@@ -147,4 +147,4 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 
 I build projects around **Data Analytics, AI, Machine Learning and Automation**, with a focus on turning real-world business processes into practical, automated workflows.
 
-More automation projects will be added to this repository as I continue building.
+More analytical and automated projects will be added to this repository as I continue building.
