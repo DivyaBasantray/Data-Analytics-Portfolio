@@ -121,3 +121,11 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 **Python:** Pandas, NumPy, Matplotlib, Seaborn 
 **BI & Visualization:** Power BI, DAX, Advanced Excel  
 **Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
+ 
+ ---
+
+ ## 👩‍💻 About
+
+I build projects around **Data Analytics, AI, Machine Learning and Automation**, with a focus on turning real-world business processes into practical, automated workflows.
+
+More automation projects will be added to this repository as I continue building.
