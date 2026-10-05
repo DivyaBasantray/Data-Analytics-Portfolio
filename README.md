@@ -76,7 +76,7 @@ Analyzed restaurant and menu data to identify pricing, ratings, and food-market 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis)
 
 ### 4. Cart Abandonment Pattern Analysis
-**Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
+**Tools:** SQL, Python, Pandas, Matplotlib, Seaborn | Power BI
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis)
 
