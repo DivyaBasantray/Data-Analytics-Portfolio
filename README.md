@@ -7,6 +7,25 @@ Welcome to my data analytics portfolio.
 
 ---
 
+## 📂 Project Repositories
+
+| Project | Repository |
+|---|---|
+| 💳 Lending Club Credit Risk & Loan Default Analysis | [View Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis) |
+| 💳 Credit Card Fraud Detection | [View Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis) |
+| 🏢 IBM HR Attrition Analysis | [View Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard) |
+| 🚗 BMW Sales Analysis | [View Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-) |
+| ⚡ Electric Vehicle Specification Analysis | [View Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-) |
+| 🛒 Amazon Sales Analysis | [View Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard) |
+| 🍽️ Swiggy Menu Insights | [View Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard) |
+| 👥 Market Segmentation & RFM Analysis | [View Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis) |
+| 🛍️ Cart Abandonment Pattern Analysis | [View Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis) |
+| 🚕 Uber Ride Analysis | [View Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis) |
+| 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
+| 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
+
+---
+
 ## 💳 Banking Financial Services and Insurance (BFSI) Analytics
 
 ### 1. Lending Club Credit Risk & Loan Default Analysis
