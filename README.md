@@ -92,10 +92,14 @@ Analyzed restaurant and menu data to identify pricing, ratings, and food-market 
 ### 3. Market Segmentation and RFM Analysis (E-commerce + Marketing)
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
+Segmented customers using Recency, Frequency, and Monetary value to identify high-value customers and behavioral segments.
+
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis)
 
 ### 4. Cart Abandonment Pattern Analysis
 **Tools:** SQL, Python, Pandas, Matplotlib, Seaborn | Power BI
+
+Analyzed cart abandonment patterns across customer, session, product, and engagement factors to identify key drop-off drivers.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis)
 
