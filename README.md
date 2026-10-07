@@ -23,7 +23,7 @@ Welcome to my data analytics portfolio.
 | 🚕 Uber Ride Analysis | [View Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis) |
 | 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
-| 🏨 Health insurance Claims | |
+| 🏨 Health insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 ---
 
 ## 💳 Banking Financial Services and Insurance (BFSI) Analytics
