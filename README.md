@@ -138,6 +138,17 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 
 ---
 
+
+## 🏥 HealthCare & Pharmaceuticals
+
+### 1. HealthCare Insurance Claims Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis)
+
+---
+
 ## 🛠️ Technical Skills
 
 **SQL:** MySQL, Advanced SQL, Window Functions  
