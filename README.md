@@ -141,7 +141,7 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 
 ## 🏥 HealthCare & Pharmaceuticals
 
-### 1. HealthCare Insurance Claims Analysis
+### 1. HealthCare Insurance Claims Analysis (BFSI + Pharma)
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
 
