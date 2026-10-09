@@ -97,7 +97,7 @@ Segmented customers using Recency, Frequency, and Monetary value to identify hig
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis)
 
 ### 4. Cart Abandonment Pattern Analysis
-**Tools:** SQL, Python, Pandas, Matplotlib, Seaborn | Power BI
+**Tools:** SQL, Python, Pandas| Power BI
 
 Analyzed cart abandonment patterns across customer, session, product, and engagement factors to identify key drop-off drivers.
 
