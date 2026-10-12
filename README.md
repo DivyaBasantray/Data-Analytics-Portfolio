@@ -144,6 +144,7 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 ### 1. HealthCare Insurance Claims Analysis (BFSI + Pharma)
 **Tools:** Python, Pandas, Matplotlib, Seaborn
 
+Analyzed insurance charges based on age, BMI, smoking status, gender, number of children, and region to identify the key factors associated with higher medical costs.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis)
 
