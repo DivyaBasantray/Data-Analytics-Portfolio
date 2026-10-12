@@ -152,9 +152,12 @@ Analyzed insurance charges based on age, BMI, smoking status, gender, number of 
 
 ## 🛠️ Technical Skills
 
-**SQL:** MySQL, Advanced SQL, Window Functions  
+**SQL:** MySQL, Advanced SQL, Window Functions 
+
 **Python:** Pandas, NumPy, Matplotlib, Seaborn 
+
 **BI & Visualization:** Power BI, DAX, Advanced Excel  
+
 **Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
  
  ---
