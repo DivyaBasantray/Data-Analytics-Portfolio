@@ -24,7 +24,7 @@ Welcome to my data analytics portfolio.
 | 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
-| 🏥 Patient readmission Analysis | [View Repository] |
+| 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
 ---
 
 ## 💳 Banking Financial Services and Insurance (BFSI) Analytics
@@ -148,6 +148,13 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 Analyzed insurance charges based on age, BMI, smoking status, gender, number of children, and region to identify the key factors associated with higher medical costs.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis)
+
+### 2. Patient readmission Analysis
+**Tools:** SQL | Power BI
+
+
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis)
 
 ---
 
