@@ -24,6 +24,7 @@ Welcome to my data analytics portfolio.
 | 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
+| 🏥 Patient readmission Analysis | [View Repository] |
 ---
 
 ## 💳 Banking Financial Services and Insurance (BFSI) Analytics
