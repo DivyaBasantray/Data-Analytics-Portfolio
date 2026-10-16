@@ -152,7 +152,7 @@ Analyzed insurance charges based on age, BMI, smoking status, gender, number of 
 ### 2. Patient readmission Analysis
 **Tools:** SQL | Power BI
 
-
+Analysed hospital data to identify factors associated with 30-day readmission among diabetic patients, focusing on previous hospital visits, length of stay, number of diagnoses, age, gender, and diabetes treatment.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis)
 
