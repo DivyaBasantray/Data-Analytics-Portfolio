@@ -25,7 +25,7 @@ Welcome to my data analytics portfolio.
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 | 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
-| 🏥 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
+| 🚛 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
 
 ---
 
@@ -159,6 +159,13 @@ Analysed hospital data to identify factors associated with 30-day readmission am
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis)
 
 ---
+
+## 🚛 Supply Chain & Manufacturing (Logistics)
+
+### 1. Demand Forecasting Analysis
+**Tools:** SQL | Python | Power BI
+
+🔗 [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) 
 
 ## 🛠️ Technical Skills
 
