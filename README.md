@@ -25,6 +25,8 @@ Welcome to my data analytics portfolio.
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 | 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
+| 🏥 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
+
 ---
 
 ## 💳 Banking Financial Services and Insurance (BFSI) Analytics
