@@ -142,7 +142,7 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 ---
 
 
-## 🏥 HealthCare & Pharmaceuticals
+## 🏥 HealthCare & Pharmaceuticals Analytics
 
 ### 1. HealthCare Insurance Claims Analysis (BFSI + Pharma)
 **Tools:** Python, Pandas, Matplotlib, Seaborn
@@ -160,7 +160,7 @@ Analysed hospital data to identify factors associated with 30-day readmission am
 
 ---
 
-## 🚛 Supply Chain & Manufacturing (Logistics)
+## 🚛 Supply Chain & Manufacturing (Logistics) Analytics
 
 ### 1. Demand Forecasting Analysis
 **Tools:** SQL | Python | Power BI
