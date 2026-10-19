@@ -3,7 +3,7 @@
 Welcome to my data analytics portfolio.
 
 - This repository showcases all of my end-to-end data analytics projects across multiple real-world business domains.
-- The projects demonstrate practical experience in SQL, Python, Power BI, Excel, data cleaning, exploratory data analysis, data visualization, and business intelligence.
+- The projects demonstrate practical experience in AI, SQL, Python, Power BI, Excel, data cleaning, exploratory data analysis, data visualization, and business intelligence.
 
 ---
 
