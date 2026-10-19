@@ -38,7 +38,7 @@ Analyzed over 2.2 million loan records to identify borrower, loan, and credit ch
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis)
 
-### 2. Credit Card Fraud Detection
+### 2. Credit Card Fraud Detection Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn | Power BI
 
 Analyzed transaction patterns to identify characteristics associated with fraudulent credit card transactions.
