@@ -13,21 +13,20 @@ Welcome to my data analytics portfolio.
 |---|---|
 | 💳 Lending Club Credit Risk & Loan Default Analysis | [View Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis) |
 | 💳 Credit Card Fraud Detection | [View Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis) |
-| 🏢 IBM HR Attrition Analysis | [View Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard) |
+| 👥 Customer Analytics and RFM Segmentation | [View Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation) |
+| 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
+| 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
+| 🚛 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
 | 🚗 BMW Sales Analysis | [View Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-) |
-| ⚡ Electric Vehicle Specification Analysis | [View Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-) |
 | 🛒 Amazon Sales Analysis | [View Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard) |
-| 🍽️ Swiggy Menu Insights | [View Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard) |
-| 👥 Market Segmentation & RFM Analysis | [View Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis) |
+| 🍽️ Swiggy Menu Insights Analysis | [View Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard) |
 | 🛍️ Cart Abandonment Pattern Analysis | [View Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis) |
 | 🚕 Uber Ride Analysis | [View Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis) |
 | 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
-| 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
-| 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
-| 🚛 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
-| 👥 Customer Analytics and RFM Segmentation | [View Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation)
-
+| 👥 Market Segmentation & RFM Analysis | [View Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis) |
+| 🏢 IBM HR Attrition Analysis | [View Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard) |
+| ⚡ Electric Vehicle Specification Analysis | [View Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-) |
 
 ---
 
