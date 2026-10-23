@@ -26,6 +26,8 @@ Welcome to my data analytics portfolio.
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 | 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
 | 🚛 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
+| 👥 Customer Analytics and RFM Segmentation | [View Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation)
+
 
 ---
 
@@ -105,6 +107,13 @@ Segmented customers using Recency, Frequency, and Monetary value to identify hig
 Analyzed cart abandonment patterns across customer, session, product, and engagement factors to identify key drop-off drivers.
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis)
+
+### 5. Customer Analytics and RFM Segmentation (E-commerce + Marketing)
+**Tools:** SQl | Python, Pandas, Matplotlib, Seaborn | Power BI
+
+Segmented customers using Recency, Frequency, and Monetary value to identify high-value customers and behavioral segments.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation)
 
 ---
 
