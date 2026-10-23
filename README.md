@@ -48,32 +48,21 @@ Analyzed transaction patterns to identify characteristics associated with fraudu
 
 --- 
 
-## 🏢 HR Analytics
+## 🏥 HealthCare & Pharmaceuticals Analytics
 
-### 1. IBM HR Attrition Analysis
-**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
+### 1. HealthCare Insurance Claims Analysis (BFSI + Pharma)
+**Tools:** Python, Pandas, Matplotlib, Seaborn
 
-Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
+Analyzed insurance charges based on age, BMI, smoking status, gender, number of children, and region to identify the key factors associated with higher medical costs.
 
-🔗 [View Project Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard)
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis)
 
----
+### 2. Patient readmission Analysis
+**Tools:** SQL | Power BI
 
-## 🚗 Automotive & EV Analytics
+Analysed hospital data to identify factors associated with 30-day readmission among diabetic patients, focusing on previous hospital visits, length of stay, number of diagnoses, age, gender, and diabetes treatment.
 
-### 1. BMW Sales Analysis
-**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
-
-Analyzed BMW sales data to identify revenue patterns, sales performance, and product-level trends.
-
-🔗 [View Project Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-)
-
-### 2. Electric Vehicle Specification Analysis
-**Tools:** Power BI
-
-Analyzed EV specifications and performance metrics to compare electric vehicle characteristics.
-
-🔗 [View Project Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-)
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis)
 
 ---
 
@@ -116,6 +105,25 @@ Segmented customers using Recency, Frequency, and Monetary value to identify hig
 
 ---
 
+## 🚛 Supply Chain & Manufacturing (Logistics) Analytics
+
+### 1. Demand Forecasting Analysis
+**Tools:** SQL | Python | Power BI
+
+🔗 [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) 
+
+## 🛠️ Technical Skills
+
+**SQL:** MySQL, Advanced SQL, Window Functions 
+
+**Python:** Pandas, NumPy, Matplotlib, Seaborn 
+
+**BI & Visualization:** Power BI, DAX, Advanced Excel  
+
+**Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
+
+---
+
 ## 🚕 Transportation Analytics
 
 ### 1. Uber Ride Analysis
@@ -149,43 +157,34 @@ Analyzed Airbnb listings to identify pricing, location, and property-level patte
 
 ---
 
+## 🏢 HR Analytics
 
-## 🏥 HealthCare & Pharmaceuticals Analytics
+### 1. IBM HR Attrition Analysis
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
-### 1. HealthCare Insurance Claims Analysis (BFSI + Pharma)
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+Analyzed employee attrition patterns to identify the key factors associated with employee turnover.
 
-Analyzed insurance charges based on age, BMI, smoking status, gender, number of children, and region to identify the key factors associated with higher medical costs.
+🔗 [View Project Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard)
 
-🔗 [View Project Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis)
+ ---
 
-### 2. Patient readmission Analysis
-**Tools:** SQL | Power BI
+## 🚗 Automotive & EV Analytics
 
-Analysed hospital data to identify factors associated with 30-day readmission among diabetic patients, focusing on previous hospital visits, length of stay, number of diagnoses, age, gender, and diabetes treatment.
+### 1. BMW Sales Analysis
+**Tools:** SQL | Python, Pandas, Matplotlib, Seaborn | Power BI
 
-🔗 [View Project Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis)
+Analyzed BMW sales data to identify revenue patterns, sales performance, and product-level trends.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-)
+
+### 2. Electric Vehicle Specification Analysis
+**Tools:** Power BI
+
+Analyzed EV specifications and performance metrics to compare electric vehicle characteristics.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-)
 
 ---
-
-## 🚛 Supply Chain & Manufacturing (Logistics) Analytics
-
-### 1. Demand Forecasting Analysis
-**Tools:** SQL | Python | Power BI
-
-🔗 [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) 
-
-## 🛠️ Technical Skills
-
-**SQL:** MySQL, Advanced SQL, Window Functions 
-
-**Python:** Pandas, NumPy, Matplotlib, Seaborn 
-
-**BI & Visualization:** Power BI, DAX, Advanced Excel  
-
-**Data Analysis:** Data Cleaning, EDA, Data Modeling, Business Intelligence
- 
- ---
 
  ## 👩‍💻 About
 
