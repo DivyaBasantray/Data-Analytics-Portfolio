@@ -165,17 +165,3 @@ For default analysis, the focus was placed on **resolved loans**:
 - The final dataset was cleaned and prepared using Python before being used in Power BI.
 
 ---
-
-## 📊 Dashboard Preview
-
-### 1. Credit Risk Overview
-
-![Credit Risk Overview](./Dashboard/Credit%20Risk%20Overview%20Dashboard.png)
-
-### 2. Loan Portfolio Analysis
-
-![Loan Portfolio Analysis](./Dashboard/Loan%20Portfolio%20Analysis%20Dashboard.png)
-
-### 3. Risk Segmentation
-
-![Risk Segmentation](./Dashboard/Risk%20Segmentation%20Dashboard.png)
