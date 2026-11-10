@@ -12,7 +12,7 @@ Welcome to my data analytics portfolio.
 | Project | Repository |
 |---|---|
 | 💳 Lending Club Credit Risk & Loan Default Analysis | [View Repository](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis) |
-| 💳 Credit Card Fraud Detection | [View Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis) |
+| 💳 Credit Card Fraud Detection Analysis| [View Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis) |
 | 👥 Customer Analytics and RFM Segmentation | [View Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation) |
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 | 🚕 Uber Ride Analysis | [View Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis) |
