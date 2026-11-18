@@ -23,6 +23,8 @@ Welcome to my data analytics portfolio.
 | 🛒 Amazon Sales Analysis | [View Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard) |
 | 🍽️ Swiggy Menu Insights Analysis | [View Repository](https://github.com/DivyaBasantray/Swiggy-Menu-Insights-Dashboard) |
 | 🛍️ Cart Abandonment Pattern Analysis | [View Repository](https://github.com/DivyaBasantray/Cart-Abandonment-Pattern-Analysis) |
+| 🍽️ Restaurant Order Analysis | [View Repository](https://github.com/DivyaBasantray/Restaurant-Order-Analysis) |
+| 🏦 Bank Customer Churn Analysis | [View Repository](https://github.com/DivyaBasantray/Bank-Customer-Churn-Analysis) |
 | 📱 Telco Customer Churn | [View Repository](https://github.com/DivyaBasantray/Telco-Customer-Churn-Analysis) |
 | 🏨 Airbnb Gems Analysis | [View Repository](https://github.com/DivyaBasantray/India-s-Airbnb-Gems-Project) |
 | 🏢 IBM HR Attrition Analysis | [View Repository](https://github.com/DivyaBasantray/IBM-HR-Analytics-Dashboard) |
