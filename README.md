@@ -17,7 +17,6 @@ Welcome to my data analytics portfolio.
 | 🏥 Health Insurance Claims | [View Repository](https://github.com/DivyaBasantray/Health-Insurance-Claims-Analysis) |
 | 🚕 Uber Ride Analysis | [View Repository](https://github.com/DivyaBasantray/Uber-Ride-Analysis) |
 | 🏥 Patient readmission Analysis | [View Repository](https://github.com/DivyaBasantray/Patient-Readmission-Analysis) |
-| 🚛 Demand Forecasting Analysis | [View Repository](https://github.com/DivyaBasantray/Demand-Forecasting-Analysis) |
 | 🚗 BMW Sales Analysis | [View Repository](https://github.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-) |
 | 👥 Market Segmentation & RFM Analysis | [View Repository](https://github.com/DivyaBasantray/Market-Segmentation-and-RFM-Analysis) |
 | 🛒 Amazon Sales Analysis | [View Repository](https://github.com/DivyaBasantray/Amazon-Sales-Dashboard) |
