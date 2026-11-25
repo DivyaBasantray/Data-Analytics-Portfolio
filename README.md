@@ -47,6 +47,14 @@ Analyzed transaction patterns to identify characteristics associated with fraudu
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis)
 
+### 3. Bank Customer Churn Analysis
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+This analysis establishes a cleaner and more consistent dataset for investigating customer churn. By exploring customer characteristics and preparing relevant features, the project supports further analysis for churn prediction and customer segmentation, helping the bank investigate potential retention opportunities.
+
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Bank-Customer-Churn-Analysis)
+
+
 --- 
 
 ## 🏥 HealthCare & Pharmaceuticals Analytics
