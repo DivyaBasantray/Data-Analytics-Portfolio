@@ -117,7 +117,7 @@ Segmented customers using Recency, Frequency, and Monetary value to identify hig
 
 Analyzed restaurant menu and order data using SQL to understand menu pricing, customer ordering patterns, popular and unpopular dishes, and high-value orders. The goal is to generate insights that can help the restaurant make informed decisions about its menu and operations.
 
-🔗 [View Repository](https://github.com/DivyaBasantray/Restaurant-Order-Analysis)
+🔗 [View Project Repository](https://github.com/DivyaBasantray/Restaurant-Order-Analysis)
 
 ---
 
