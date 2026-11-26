@@ -112,6 +112,13 @@ Segmented customers using Recency, Frequency, and Monetary value to identify hig
 
 🔗 [View Project Repository](https://github.com/DivyaBasantray/Customer-Analytics-and-RFM-Segmentation)
 
+### 6. Restaurant Order Analysis
+**Tools:** SQL 
+
+Analyzed restaurant menu and order data using SQL to understand menu pricing, customer ordering patterns, popular and unpopular dishes, and high-value orders. The goal is to generate insights that can help the restaurant make informed decisions about its menu and operations.
+
+🔗 [View Repository](https://github.com/DivyaBasantray/Restaurant-Order-Analysis)
+
 ---
 
 ## 🚛 Supply Chain & Manufacturing (Logistics) Analytics
